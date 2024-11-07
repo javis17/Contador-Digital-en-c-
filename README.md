@@ -15,3 +15,24 @@ Este proyecto es un **contador digital** simple hecho en C# que muestra los núm
 ## 🖼️ Ejemplo de Salida
 
 Al ejecutar el programa, verás el conteo en formato digital:
+Número 10 en formato digital:
+```
+   _
+| | |
+| |_|
+
+```
+
+---
+
+## 📋 Requisitos
+
+- **.NET SDK**: Necesitarás el SDK de .NET 5 o superior para compilar y ejecutar el programa. Descárgalo [aquí](https://dotnet.microsoft.com/download).
+
+---
+
+## ⚙️ Instrucciones para Ejecutar
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/tu-usuario/contador-digital.git
