@@ -35,4 +35,70 @@ Número 10 en formato digital:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/contador-digital.git
+   https://github.com/javis17/Contador-Digital-en-c-.git
+   ```
+1. **Navega al directorio del proyecto**:
+   ```bash
+   cd contador-digital
+   ```
+1. **Ejecuta el programa**:
+   ```bash
+   dotnet run
+   ```
+   
+---
+## 🎨 Personalización
+
+Si deseas cambiar la velocidad del contador, modifica la línea Thread.Sleep(1000); en Program.cs. Cambia 1000 a cualquier otro valor en milisegundos para ajustar el tiempo de visualización de cada número:
+   
+- 500 para medio segundo
+- 2000 para dos segundos, etc.
+  
+---
+
+## 🤝 Contribuciones
+
+¡Contribuciones son bienvenidas! Si tienes ideas para mejorar el proyecto o encuentras errores, abre un issue o envía un pull request.
+
+   1. Haz un fork de este repositorio.
+   2. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+   3. Realiza tus cambios y commits (git commit -m 'Añadir nueva funcionalidad').
+   4. Envía un pull request.
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo **LICENSE** para más detalles.
+
+---
+
+¡Gracias por revisar este proyecto! Si encuentras útil el código, no dudes en darle una ⭐ y compartirlo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+
+
+
