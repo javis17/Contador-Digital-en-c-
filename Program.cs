@@ -30,8 +30,7 @@
                 // Esperar 1 segundo antes de pasar al siguiente número
                 Thread.Sleep(1000);
             }
-
-
+            Console.WriteLine("\n¡Conteo completado!");
         }
     }
 }
