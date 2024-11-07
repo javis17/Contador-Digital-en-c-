@@ -20,7 +20,8 @@
 
             for (int i = 0; i < numerosDigitales.Length; i++)
             {
-
+                // Limpiar la consola para que solo se vea el número actual
+                Console.Clear();
             }
 
 
