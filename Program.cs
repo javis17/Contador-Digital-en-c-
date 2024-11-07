@@ -26,6 +26,9 @@
                 // Imprimir el número actual en formato digital
                 Console.WriteLine($"Número {i + 1} en formato digital:");
                 Console.WriteLine(numerosDigitales[i]);
+
+                // Esperar 1 segundo antes de pasar al siguiente número
+                Thread.Sleep(1000);
             }
 
 
