@@ -22,6 +22,10 @@
             {
                 // Limpiar la consola para que solo se vea el número actual
                 Console.Clear();
+                
+                // Imprimir el número actual en formato digital
+                Console.WriteLine($"Número {i + 1} en formato digital:");
+                Console.WriteLine(numerosDigitales[i]);
             }
 
 
